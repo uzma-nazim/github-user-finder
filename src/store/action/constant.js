@@ -1,0 +1,8 @@
+const  Constant = {
+
+    GITHUB_USER :"GITHUB_USER",
+    GITHUB_USER_LOADING :"GITHUB_USER_LOADING",
+    GITHUB_USER_ERROR :"GITHUB_USER_ERROR"
+
+}
+export default Constant
